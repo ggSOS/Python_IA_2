@@ -3,4 +3,4 @@
 
 ou
 
-- pytohn -m pip install
+- pytohn -m pip install numpy pandas matplotlib jupyter jupyterlab
