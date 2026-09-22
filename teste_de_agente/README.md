@@ -1,3 +1,9 @@
+# GAE OpenRouter - Gateway Multi-Modelo
+Os modelos escolhidos para esse teste são totalmente gratuitos e apenas a chave de api da própria OpenRouter foi necessária.
+
+Houve uma preferência inicial pelos modelos "qwen" e "nvidia", mas o primeiro só aceitou uma requisição e bloqueou as seguintes e o segundo tomou um tempo muito grande para responder. "gemma" e "north" se mostraram mais receptivos pela agilidade e facilidade de comunicação.
+
+
 ## Requisitos
 - #### Dependências
 ``` PowerShell
